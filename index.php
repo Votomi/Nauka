@@ -5,5 +5,5 @@ $array = [
 ];
 
 echo $array[0][2];
-
+echo "Pan jest po prostu niemieckim agentem"
 ?>
